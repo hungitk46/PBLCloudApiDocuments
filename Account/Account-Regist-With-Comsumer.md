@@ -18,4 +18,4 @@ Enter RegisterWithComsumerDTO data with format:
 ```
 Click Send.
 
-Response Type: int (Id of new account has been created)
+`Response Type:` int (Id of new account has been created)
