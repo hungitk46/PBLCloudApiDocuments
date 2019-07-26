@@ -1,4 +1,4 @@
-Get List History Items by CaseId
+# Get List History Items by CaseId
 
 In Postman, select the GET method.
 

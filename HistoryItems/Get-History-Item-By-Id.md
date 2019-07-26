@@ -1,4 +1,4 @@
-Get HistoryItem By Id
+# Get HistoryItem By Id
 
 In Postman, select the GET method.
 

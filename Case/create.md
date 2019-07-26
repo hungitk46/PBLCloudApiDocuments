@@ -1,4 +1,4 @@
-# Create or Update History Item
+# Create a new case from case template
 
 In Postman, select the POST method.
 
@@ -13,15 +13,15 @@ On the Body tab, select raw with application/json.
 Enter historyItem data with format:
 ```json
 {
-  "Id": 0,
-  "CaseId": 0,
-  "Name": "string",
-  "Answer": "string",
-  "Tags": "string"
+  "templateId": 0, 
+  "title": "string",
+  "patientName": "string",
+  "patientAge":0,
+  "gender": 0,
+  "freeNode": "string",
 }
 ```
-- <b>Insert</b> a new HistoryItem: `Id=0`.
-- <b>Update</b> an existing HistoryItem: `ID={historyItemId}`.
+* All parameters is require
 
 Click Send.
 
