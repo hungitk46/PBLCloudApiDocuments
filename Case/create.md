@@ -6,11 +6,11 @@ Includes a bearer token in the Authorization request header. This type of token 
 
 `Authorization: Bearer Access-Token`
 
-Enter the https://api-dev.pblcloud.com/api/history-item request URL.
+Enter the https://api-dev.pblcloud.com/api/case/create request URL.
 
 On the Body tab, select raw with application/json.
 
-Enter historyItem data with format:
+Enter input data with format:
 ```json
 {
   "templateId": 0, 
