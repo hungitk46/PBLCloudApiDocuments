@@ -23,6 +23,12 @@ Enter input data with format:
 ```
 * All parameters is require
 
+| Tables        | Are           | Cool  | Coll|
+| ------------- |:-------------:| -----:|-----|
+| col 3 is      | right-aligned | $1600 |abcds|
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
 Click Send.
 
 `Response Type:` int64.
